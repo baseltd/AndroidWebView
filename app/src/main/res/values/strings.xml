@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">saidur.me</string>
+    <string name="yourWebSiteName">loading finish</string>
+    <string name="label_loading">loading...</string>
+
+
+    <!--Admob app unit id -->
+    <string name="banner_ad_unit_id">Test</string>
+    <string name="interstitial_ad_unit_id">Test</string>
+
+    <!--<string name="banner_ad_unit_id">Test</string>
+    <string name="interstitial_ad_unit_id">Test</string>-->
+
+    <!-- Sharing content -->
+    <string name="share_to">Share to</string>
+    <string name="subject">Hi, I just Try saidur.me</string>
+    <string name="message">You can download saidur.me for Android at</string>
+    <string name="intro_message">Hi, I just try saidur.me</string>
+    <string name="extra_message">. You can also try this saidur.me by downloading </string>
+    <string name="here">here:</string>
+    <string name="share">share</string>
+
+    <!-- Google Play url. Change your.package.name with your own package name. -->
+    <string name="google_play_url">https://play.google.com/store/apps/details?id=me.saidur.fmradio</string>
+
+</resources>

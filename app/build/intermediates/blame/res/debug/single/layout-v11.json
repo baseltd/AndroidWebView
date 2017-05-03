@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Fiverr_Client_Projects\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\840fa1dd0236037db8b13879dddde1c40ca08153\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Fiverr_Client_Projects\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\840fa1dd0236037db8b13879dddde1c40ca08153\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Fiverr_Client_Projects\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\840fa1dd0236037db8b13879dddde1c40ca08153\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Fiverr_Client_Projects\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\840fa1dd0236037db8b13879dddde1c40ca08153\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Fiverr_Client_Projects\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\840fa1dd0236037db8b13879dddde1c40ca08153\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Fiverr_Client_Projects\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Saidur\\.android\\build-cache\\840fa1dd0236037db8b13879dddde1c40ca08153\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]

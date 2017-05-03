@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\f7c55d23e8a6340a636fb7426d843d2f43d7b549\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\classes_649b8cd418308817df5cf3f9a1da38f22e993278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\840fa1dd0236037db8b13879dddde1c40ca08153\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\classes_30a63b2d931681c0bb5f53ddb425c077e5d14432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\584e960b9d95a60ca3f98ba817684c1bf2872b1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\classes_fad0e355ef0fb73a1364001c4dc71ce527951603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\b9350f482d8561f1390c04babe35334e99c71239\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\classes_1573fecdf6aa37c9da3318cb3a1455d5091c1139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\3e52d57f85ca3632556bfd96c2bfe98569e488f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\classes_4582d06265fa76c254fb8dfa4c0e31452261b2ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\5e416851dc1107672aaeaea19a52fc27b9b33b56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\classes_e8740c69634bc431424d7410b56f065706f89097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\17b11e53e39116161f1e0a890bf4633812c9f755\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\classes_a3feb9c91c8bae4db4dccf3372125d577166e40e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\9eecb0f19837772effc6d9e036ba859f37b125ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\classes_dcd8e197b92a03300c87730963787f619d336f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\Android_Projects\Android_Sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_c3caf639cd8640bb8c7d9fcb96fda2857d952ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\cd0fbfc33d5c06f51cc9dbc909920165352075c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\classes_e11a23b2b573877a37aa8779180bdb3c0bade280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\2d68f7e03a11ee7528832df7459ea4084eca47a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\classes_78f278b5b0752769ff40ae68b802a449171669a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saidur\.android\build-cache\b2880a1a31ad2d6a7f92865a1ca9c592eed09b07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Fiverr_Client_Projects\WebView\app\build\intermediates\pre-dexed\debug\classes_113b6cdf0210bb6020b2f596b87385c9b373a21e.jar" />
+    </item>
+
+</items>

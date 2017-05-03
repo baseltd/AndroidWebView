@@ -1,0 +1,80 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:8:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Saidur\.android\build-cache\840fa1dd0236037db8b13879dddde1c40ca08153\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Saidur\.android\build-cache\9eecb0f19837772effc6d9e036ba859f37b125ac\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Saidur\.android\build-cache\5e416851dc1107672aaeaea19a52fc27b9b33b56\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Saidur\.android\build-cache\f7c55d23e8a6340a636fb7426d843d2f43d7b549\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Saidur\.android\build-cache\b2880a1a31ad2d6a7f92865a1ca9c592eed09b07\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Saidur\.android\build-cache\cd0fbfc33d5c06f51cc9dbc909920165352075c3\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Saidur\.android\build-cache\2d68f7e03a11ee7528832df7459ea4084eca47a7\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Saidur\.android\build-cache\b9350f482d8561f1390c04babe35334e99c71239\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Saidur\.android\build-cache\17b11e53e39116161f1e0a890bf4633812c9f755\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Saidur\.android\build-cache\3e52d57f85ca3632556bfd96c2bfe98569e488f8\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:13:9-40
+activity#saidur.me.website.saidurme.MainActivity
+ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Saidur\.android\build-cache\840fa1dd0236037db8b13879dddde1c40ca08153\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Saidur\.android\build-cache\9eecb0f19837772effc6d9e036ba859f37b125ac\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Saidur\.android\build-cache\5e416851dc1107672aaeaea19a52fc27b9b33b56\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Saidur\.android\build-cache\f7c55d23e8a6340a636fb7426d843d2f43d7b549\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Saidur\.android\build-cache\b2880a1a31ad2d6a7f92865a1ca9c592eed09b07\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Saidur\.android\build-cache\cd0fbfc33d5c06f51cc9dbc909920165352075c3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Saidur\.android\build-cache\2d68f7e03a11ee7528832df7459ea4084eca47a7\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\Saidur\.android\build-cache\584e960b9d95a60ca3f98ba817684c1bf2872b1d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Saidur\.android\build-cache\b9350f482d8561f1390c04babe35334e99c71239\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Saidur\.android\build-cache\17b11e53e39116161f1e0a890bf4633812c9f755\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Saidur\.android\build-cache\3e52d57f85ca3632556bfd96c2bfe98569e488f8\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Saidur\.android\build-cache\840fa1dd0236037db8b13879dddde1c40ca08153\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fiverr_Client_Projects\WebView\app\src\main\AndroidManifest.xml
